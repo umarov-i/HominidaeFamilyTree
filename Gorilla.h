@@ -6,6 +6,6 @@
 #define GORILLA_H
 #include "Gorillini.h"
 
-class Gorilla : Gorilini {};
+class Gorilla : Gorillini {};
 
 #endif //GORILLA_H
